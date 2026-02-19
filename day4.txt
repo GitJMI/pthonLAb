@@ -1,0 +1,25 @@
+1: WAP to display all even elements in list
+   and  all even position in list 
+2: suppose a list contains no.s from 1 to 20 generate a 2nd list from this list which contains every other
+    element between index 3 to 17   
+    also find the sum of the 2nd list 
+
+3: WAP to 
+    insert at the beginging insert at the end .. insert at a particular position 
+    delete at begining and delete at particular position
+    search a particular element
+    reverse the list 
+
+4: WAP to 
+    print all elements with frequency greater than K
+
+5: WAP to 
+    find frequency of all elements in a list
+    also find the unique elementin the list and duplicate element in the list 
+
+6: WAP to rotate the list 
+
+7: WAP to separate the elementsuch that 1 list contains prime nos 
+    and second list contains non prime nos
+
+8: WAP To input list of numbers and shift all zeroes to the right and non zero to left
