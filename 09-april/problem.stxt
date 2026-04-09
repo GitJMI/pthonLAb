@@ -1,0 +1,141 @@
+Q1. Basic String Analysis
+
+Write a Python program that accepts a string from the user and analyzes its content. The program should count and display the number of vowels, consonants, digits, and spaces present in the string. Consider both uppercase and lowercase vowels.
+Sample Input:
+Hello World 123
+Sample Output:
+Vowels: 3
+Consonants: 7
+Digits: 3
+Spaces: 2
+________________________________________
+Q2. Reverse Words in a String
+
+Write a Python program that takes a sentence as input and reverses each word individually while maintaining the original word order.
+Sample Input:
+Hello World
+Sample Output:
+olleH dlroW
+________________________________________
+Q3. Palindrome Checker
+
+Write a Python program to check whether a given string is a palindrome. Ignore case differences and spaces while checking.
+Sample Input:
+Madam
+Sample Output:
+Palindrome
+Sample Input:
+Hello
+Sample Output:
+Not a Palindrome
+________________________________________
+Q4. Character Frequency Counter
+
+Write a Python program that counts the frequency of each character in a given string and displays the result.
+Sample Input:
+banana
+Sample Output:
+b: 1
+a: 3
+n: 2
+________________________________________
+Q5. Remove Duplicate Characters
+
+Write a Python program to remove duplicate characters from a string while preserving the original order.
+Sample Input:
+programming
+Sample Output:
+progamin
+________________________________________
+Q6. File Read and Display
+
+Write a Python program to open and read the contents of a text file and display them on the screen.
+Sample Input (file.txt):
+Python is easy.
+Welcome to lab.
+Sample Output:
+Python is easy.
+Welcome to lab.
+________________________________________
+
+
+Q7. Count Lines, Words, and Characters
+
+Write a Python program that reads a file and counts the number of lines, words, and characters present in the file.
+Sample Input (file.txt):
+Hello World
+Python Lab
+Sample Output:
+Lines: 2
+Words: 4
+Characters: 22
+________________________________________
+Q8. Copy File Content
+
+Write a Python program to copy the contents of one file into another file.
+Sample Input (source.txt):
+Data Structures Lab
+Sample Output (target.txt):
+Data Structures Lab
+________________________________________
+Q9. Append Data to File
+
+Write a Python program that takes user input and appends it to an existing file without overwriting previous content.
+Sample Input (user input):
+New line added
+Sample Output (file.txt after append):
+Existing content
+New line added
+________________________________________
+Q10. Search Word in File
+
+Write a Python program that searches for a specific word in a file and counts how many times it appears.
+Sample Input (file.txt):
+Python is powerful. Python is simple.
+Search Word:
+Python
+Sample Output:
+Occurrences of 'Python': 2
+________________________________________
+Q11. Convert File Content to Uppercase
+
+Write a Python program that reads content from a file, converts all characters to uppercase, and writes the result into a new file.
+Sample Input (file.txt):
+hello world
+Sample Output (newfile.txt):
+HELLO WORLD
+________________________________________
+Q12. Remove Punctuation from File
+
+Write a Python program that reads a file, removes all punctuation marks (such as .,!?), and writes the cleaned text into another file.
+Sample Input (file.txt):
+Hello, world! Welcome to Python.
+Sample Output (clean.txt):
+Hello world Welcome to Python
+________________________________________
+Q13. Find the Longest Word in File
+
+Write a Python program that reads a file and finds the longest word present in it. Display the word along with its length.
+Sample Input (file.txt):
+Python programming is interesting
+Sample Output:
+Longest word: programming
+Length: 11
+________________________________________
+Q14. Replace Word in File
+
+Write a Python program that replaces all occurrences of a specified word in a file with another word and saves the updated content into a new file.
+Sample Input (file.txt):
+I like Python. Python is easy.
+Replace:
+Python → Java
+Sample Output (newfile.txt):
+I like Java. Java is easy.
+________________________________________
+Q15. Count Vowels in File
+
+Write a Python program that reads a file and counts the total number of vowels present in the file.
+Sample Input (file.txt):
+Hello Python
+Sample Output:
+Total vowels: 3
