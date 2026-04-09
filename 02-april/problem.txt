@@ -1,1 +1,31 @@
+WAP to implement a dict and perform the following opertaiopns"
 
+----1"
+add the key value pair ,
+2):searched by the key 
+3): searched by the value 
+4):update the dictionary 
+5):delete the value specified by the user 
+6):display in sorted order 
+
+
+Create a dictionary whose keys are month name , and values are no. of days
+the corresponding month , perform the following:
+
+1):ask the user to enter a month name and use the dict to display no. of 
+days to that month .,
+2):print all the keys in alphabetical order along with the value 
+3):print out all the months with 31 days 
+4):print out the key value pair sorted by no. of days in each month
+
+
+WAP that groups words in a list , by their first letter into a dictionary
+
+
+
+WAP to repetevily ask the user to input students name , and their score in three subjects , 
+and store them in a dict of key value pair ,key = name , value ={marks}
+
+1);program should ask the name and display the percentage 
+2:)list who secured more than 75% marks.
+3):find the name of students who scored highest marks in individual subjects.
